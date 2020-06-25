@@ -1,0 +1,131 @@
+{
+  "title": "学习方法思路及技术心得总结",
+  "description": "整理crifan在学习思路、学习方面方面的经验总结，包括学会利用搜索引擎，尤其是Google；以及用Google之前要先学会科学上网，以及善于利用网络上的维基百科，要学好英文才有利于深入学计算机技术，以及如何学习新技术给出思路和方法以及具体案例；以及在技术方面的感悟、思考和心得，比如技术开发和厨师做饭的类比，C语言指针变量和房子钥匙的类比，代码的味道，专业知识需要深入学习才能专精，技术层级对比，帮别人就是帮自己，做事情要有好习惯和好逻辑。以此希望能给需要的人以参考和帮助。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "learn_tech_method_experience",
+          "user": "crifan",
+          "type": "star",
+          "count": true,
+          "size": "small"
+        },
+        {
+          "user": "crifan",
+          "type": "follow",
+          "width": "120",
+          "count": false,
+          "size": "small"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/learn_tech_method_experience/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/learn_tech_method_experience/pdf/learn_tech_method_experience.pdf",
+      "icon": "fa-file-pdf-o",
+      "label": "下载PDF"
+    },
+    "callouts": {
+      "showTypeInHeader": false
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "disqus": {
+      "shortName": "crifan"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": true,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": true,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "instapaper",
+        "line",
+        "linkedin",
+        "messenger",
+        "pocket",
+        "qq",
+        "qzone",
+        "stumbleupon",
+        "twitter",
+        "viber",
+        "vk",
+        "weibo",
+        "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "crifan.com，使用<a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>署名4.0国际(CC BY 4.0)协议</a>发布",
+      "modify_label": "最后更新：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "ga": {
+      "token": "UA-28297199-1"
+    },
+    "donate": {
+      "wechat": "https://www.crifan.com/files/res/crifan_com/crifan_wechat_pay.jpg",
+      "alipay": "https://www.crifan.com/files/res/crifan_com/crifan_alipay_pay.jpg",
+      "title": "",
+      "button": "打赏",
+      "alipayText": "支付宝打赏给Crifan",
+      "wechatText": "微信打赏给Crifan"
+    }
+  },
+  "author": "Crifan Li <admin@crifan.com>",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": "./src",
+  "links": {
+    "sidebar": {
+      "主页": "http://www.crifan.com"
+    }
+  },
+  "plugins": [
+    "theme-comscore",
+    "anchors",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "disqus",
+    "-highlight",
+    "prism",
+    "prism-themes",
+    "github-buttons",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "ga",
+    "donate",
+    "sitemap-general",
+    "copy-code-button",
+    "callouts",
+    "toolbar-button"
+  ]
+}

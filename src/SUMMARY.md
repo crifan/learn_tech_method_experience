@@ -1,0 +1,16 @@
+# 学习方法思路及技术心得总结
+
+* [前言](README.md)
+* [学习方法和思路](learn_method_thinking/README.md)
+  * [搜索引擎](learn_method_thinking/search_engine/README.md)
+    * [google](learn_method_thinking/search_engine/google.md)
+  * [科学上网](learn_method_thinking/science_network.md)
+  * [维基百科](learn_method_thinking/wikipedia.md)
+  * [英文](learn_method_thinking/english.md)
+  * [如何学习新知识](learn_method_thinking/how_learn_new_things.md)
+* [技术心得](tech_summary/README.md)
+  * [技术层级类比](tech_summary/tech_level_similar.md)
+  * [帮别人就是帮自己](tech_summary/help_other_help_self.md)
+  * [好习惯好逻辑](tech_summary/good_habit_logic.md)
+* [附录](appendix/README.md)
+  * [参考资料](appendix/reference.md)
